@@ -1,0 +1,3 @@
+#HAI
+#MAEK PARAGRAF some text #IHAZ x #ITIZ y #MKAY #MKAY
+#KBYE
