@@ -1,0 +1,6 @@
+/target
+/submission
+*.zip
+test/*.html
+NOTES_FOR_ZAYNAB.md
+.DS_Store
